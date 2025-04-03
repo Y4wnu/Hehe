@@ -33,7 +33,7 @@ $(document).ready(function () {
   // When "Yes" is clicked
   $("#yes").click(function () {
     $("body").addClass("thank-you"); // Change the body background to light whitish
-    $(".text").html("Thank you baby Phiaa danda ko hehe, see you tom"); // Change the text
+    $(".text").html("Thank you baby Phiaa danda ko hehe, see you later"); // Change the text
     $(".options").fadeOut(); // Hide the options
   });
 
