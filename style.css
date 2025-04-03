@@ -16,7 +16,7 @@ body {
   cursor: pointer;
   border-radius: 12px;
   z-index: 1000; /* Ensures buttons appear above everything */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adds a shadow for better visibility */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
 }
 
 .option-btn:hover {
