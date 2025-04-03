@@ -14,7 +14,7 @@ $(document).ready(function () {
       );
     } else if (clickCount === 2) {
       // Second click: change the text and stop the heart from moving
-      $(".text").html('pwede ba</br>kitang yayain</br>sa Seniors night'); // Change the text
+      $(".text").html('Pwede po ba</br>kitang yayain</br>sa Seniors night??'); // Change the text
       $(".text").css("font-size", "18px"); // Reduce font size to fit the text in the card
       // Remove heart animation (no movement for heart)
       // $(".heart").animate(
