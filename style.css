@@ -240,7 +240,7 @@ body {
 .envelope-text {
   position: absolute;
   font-family: 'Dancing Script', cursive; /* Semi-fancy font */
-  font-size: 24px; /* Adjust the font size as needed */
+  font-size: 19px; /* Adjust the font size as needed */
   text-align: center;
   color: #003049;
   width: 100%; /* Ensures it takes full width of the container */
